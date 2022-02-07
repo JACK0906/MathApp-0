@@ -1,0 +1,31 @@
+.title {
+	font-size: 36pt;
+	font-weight: bold;
+}
+
+.title-content {
+	font-size: 16pt;
+	font-weight: normal;
+	margin-top: 16pt;
+}
+
+.subject {
+	font-size: 22pt;
+	font-weight: bold;
+	margin-top: 24pt;
+	margin-bottom: 8pt;
+}
+
+.subject-content {
+	font-size: 16pt;
+	font-weight: normal;
+	margin-top: 16pt;
+	margin-left: 46pt;
+}
+
+.subject-content-list {
+	font-size: 16pt;
+	font-weight: normal;
+	margin-top: 8pt;
+	margin-left: 32pt;
+}
